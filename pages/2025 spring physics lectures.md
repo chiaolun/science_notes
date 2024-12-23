@@ -1,7 +1,7 @@
 - Syllabus sources
 	- [[Khan Academy High School Physics]]
 	- [[Crash Course Physics]]
-	- [MIT OpenCourseWare - 8.01SC | Fall 2016 | Undergraduate](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
+	- [[MIT OpenCourseWare - 8.01SC | Fall 2016 | Undergraduate]]
 		- Week 1: Kinematics
 			- Week 1 Introduction
 			- 1D Kinematics - Position and Velocity
