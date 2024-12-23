@@ -47,7 +47,9 @@
 			- Nuclear fission
 	- [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
 		- Motion in a Straight Line
+		  logseq.order-list-type:: number
 		- Derivatives
+		  logseq.order-list-type:: number
 		- Integrals
 		- Vectors and 2D Motion
 		- Newton's Laws
