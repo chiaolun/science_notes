@@ -2,3 +2,5 @@
 	- [[Khan Academy High School Physics]]
 	- [[Crash Course Physics]]
 	- [[MIT OpenCourseWare - 8.01SC | Fall 2016 | Undergraduate]]
+- Classes
+-
