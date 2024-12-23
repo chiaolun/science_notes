@@ -4,23 +4,41 @@
 	- Apr 3 (holiday), 10, 17, 24
 	- May 1, 8, 15, 22, 29
 - [[2025 spring physics lectures]]:
-  1. [[2025-02-20 physics]]
-  2. [[2025-03-06 physics]]
-  3. [[2025-03-13 physics]]
-  4. [[2025-03-20 physics]]
-  5. [[2025-03-27 physics]]
-  6. [[2025-04-10 physics]]
-  7. [[2025-04-17 physics]]
-  8. [[2025-04-24 physics]]
-  9. [[2025-05-01 physics]]
-  10. [[2025-05-08 physics]]
-  11. [[2025-05-15 physics]]
-  12. [[2025-05-22 physics]]
-  13. [[2025-05-29 physics]]
-  14. [[2025-06-05 physics]]
-  15. [[2025-06-12 physics]]
-  16. [[2025-06-19 physics]]
-  17. [[2025-06-26 physics]]
+  logseq.order-list-type:: number
+  - [[2025-02-20 physics]]
+  logseq.order-list-type:: number
+  - [[2025-03-06 physics]]
+  logseq.order-list-type:: number
+  - [[2025-03-13 physics]]
+  logseq.order-list-type:: number
+  - [[2025-03-20 physics]]
+  logseq.order-list-type:: number
+  - [[2025-03-27 physics]]
+  logseq.order-list-type:: number
+  - [[2025-04-10 physics]]
+  logseq.order-list-type:: number
+  - [[2025-04-17 physics]]
+  logseq.order-list-type:: number
+  - [[2025-04-24 physics]]
+  logseq.order-list-type:: number
+  - [[2025-05-01 physics]]
+  logseq.order-list-type:: number
+  - [[2025-05-08 physics]]
+  logseq.order-list-type:: number
+  - [[2025-05-15 physics]]
+  logseq.order-list-type:: number
+  - [[2025-05-22 physics]]
+  logseq.order-list-type:: number
+  - [[2025-05-29 physics]]
+  logseq.order-list-type:: number
+  - [[2025-06-05 physics]]
+  logseq.order-list-type:: number
+  - [[2025-06-12 physics]]
+  logseq.order-list-type:: number
+  - [[2025-06-19 physics]]
+  logseq.order-list-type:: number
+  - [[2025-06-26 physics]]
+  logseq.order-list-type:: number
 - [[2025 spring chemistry lectures]]:
   1. [[2025-02-20 chemistry]]
   2. [[2025-03-06 chemistry]]
