@@ -1,0 +1,84 @@
+- Source: https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/
+- Syllabus
+	- Week 1: Kinematics
+		- Week 1 Introduction
+		- 1D Kinematics - Position and Velocity
+		- 1D Kinematics - Acceleration
+		- 2D Kinematics
+		- Week 1 Worked Examples
+		- Problem Set 1
+	- Week 2: Newton's Laws
+		- Week 2 Introduction
+		- Newton's Laws of Motion
+		- Gravity
+		- Contact Forces
+		- Tension and Springs
+		- Deep Dive: Friction
+		- Week 2 Worked Examples
+		- Problem Set 2
+	- Week 3: Circular Motion
+		- Week 3 Introduction
+		- Circular Motion - Position and Velocity
+		- Uniform Circular Motion
+		- Circular Motion - Acceleration
+		- Newton's 2nd Law and Circular Motion
+		- Week 3 Worked Example
+		- Problem Set 3
+	- Week 4: Drag Forces, Constraints and Continuous Systems
+		- Week 4 Introduction
+		- Pulleys and Constraints
+		- Massive Rope
+		- Resistive Forces
+		- Problem Set 4
+	- Week 5: Momentum and Impulse
+		- Week 5 Introduction
+		- Momentum and Impulse
+		- Conservation of Momentum
+		- Center of Mass and Motion
+		- Problem Set 5
+	- Week 6: Continuous Mass Transfer
+		- Week 6 Introduction
+		- Relative Velocity and Recoil
+		- Continuous Mass Transfer
+		- Week 6 Worked Examples
+		- Problem Set 6
+	- Week 7: Kinetic Energy and Work
+		- Week 7 Introduction
+		- Kinetic Energy and Work in 1D
+		- Kinetic Energy and Work in 2D and 3D
+		- Conservative and Non-Conservative Forces
+		- Week 7 Worked Example
+		- Problem Set 7
+	- Week 8: Potential Energy and Energy Conservation
+		- Week 8 Introduction
+		- Potential Energy
+		- Conservation of Energy
+		- Potential Energy Diagrams
+		- Problem Set 8
+	- Week 9: Collision Theory
+		- Week 9 Introduction
+		- Types of Collision
+		- Elastic Collisions
+		- Deep Dive: Center of Mass Reference Frame
+		- Problem Set 9
+	- Week 10: Rotational Motion
+		- Week 10 Introduction
+		- Motion of a Rigid Body
+		- Moment of Inertia
+		- Torque
+		- Rotational Dynamics
+		- Week 10 Worked Example
+		- Problem Set 10
+	- Week 11: Angular Momentum
+		- Week 11 Introduction
+		- Angular Momentum of a Point Particle
+		- Angular Momentum of a Rigid Body
+		- Torque and Angular Impulse
+		- Problem Set 11
+	- Week 12: Rotations and Translation - Rolling
+		- Week 12 Introduction
+		- Rolling Kinematics
+		- Rolling Dynamics
+		- Rolling Kinetic Energy & Angular Momentum
+		- Deep Dive: Gyroscopes
+		- Problem Set 12
