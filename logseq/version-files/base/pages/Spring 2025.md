@@ -3,6 +3,7 @@
 	- Mar 6, 13, 20, 27
 	- Apr 3 (holiday), 10, 17, 24
 	- May 1, 8, 15, 22, 29
+
 - 2025 spring physics lectures:
   1. [[2025-02-20 physics]]
   2. [[2025-03-06 physics]]
@@ -21,7 +22,8 @@
   15. [[2025-06-12 physics]]
   16. [[2025-06-19 physics]]
   17. [[2025-06-26 physics]]
-- 18 chemistry lectures:
+  
+- 2025 spring chemistry lectures:
   1. [[2025-02-20 chemistry]]
   2. [[2025-03-06 chemistry]]
   3. [[2025-03-13 chemistry]]
