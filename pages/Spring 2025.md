@@ -4,4 +4,4 @@
 	- Apr 3 (holiday), 10, 17, 24
 	- May 1, 8, 15, 22, 29
 - [[2025 spring physics lectures]]
-- [[2025 spring chemistry lectures]]:
+- [[2025 spring chemistry lectures]]
