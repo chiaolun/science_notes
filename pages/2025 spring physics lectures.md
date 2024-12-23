@@ -1,5 +1,5 @@
 - Inspirations for the syllabus
-	- https://www.khanacademy.org/science/highschool-physics
+	- [Khan Academy](https://www.khanacademy.org/science/highschool-physics)
 	  collapsed:: true
 		- Unit 1: Motion and forces
 			- Describing motion
@@ -46,4 +46,5 @@
 			- Activity: How do we know when dinosaurs lived on Earth?
 			- Nuclear fusion
 			- Nuclear fission
-	-
+	- [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
+		-
