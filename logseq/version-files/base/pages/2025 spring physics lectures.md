@@ -1,14 +1,15 @@
 - Inspirations for the syllabus
-	- Unit 1: Motion and forces
-		- Describing motion
-		- Forces
-		- Newton's first and second laws
-		- Activity: How do engineers design strong bridges?
-	- Unit 2: Force pairs and momentum
-		- Newton's third law
-		- Momentum
-		- Impulse
-		- Activity: How do engineers design safety cushions to save lives?
+	- https://www.khanacademy.org/science/highschool-physics
+		- Unit 1: Motion and forces
+			- Describing motion
+			- Forces
+			- Newton's first and second laws
+			- Activity: How do engineers design strong bridges?
+		- Unit 2: Force pairs and momentum
+			- Newton's third law
+			- Momentum
+			- Impulse
+			- Activity: How do engineers design safety cushions to save lives?
 	- Unit 3: Gravitation
 		- Newton's law of gravitation
 		- Falling objects
