@@ -48,49 +48,49 @@
 			- Nuclear fusion
 			- Nuclear fission
 	- [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
-		1. Motion in a Straight Line
-		1. Derivatives
-		1. Integrals
-		1. Vectors and 2D Motion
-		1. Newton's Laws
-		1. Friction
-		1. Uniform Circular Motion
-		1. Newtonian Gravity
-		1. Work, Energy, and Power
-		1. Collisions
-		1. Rotational Motion
-		1. Torque
-		1. Statics
-		1. Fluids at Rest
-		1. Fluids in Motion
-		1. Simple Harmonic Motion
-		1. Traveling Waves
-		1. Sound
-		1. The Physics of Music
-		1. Temperature
-		1. Kinetic Theory and Phase Changes
-		1. The Physics of Heat
-		1. Thermodynamics
-		1. Engines
-		1. Electric Charge
-		1. Electric Fields
-		1. Voltage, Electric Energy, and Capacitors
-		1. Electric Current
-		1. DC Resistors & Batteries
-		1. Circuit Analysis
-		1. Capacitors and Kirchhoff
-		1. Magnetism
-		1. Ampère's Law
-		1. Induction - An Introduction
-		1. How Power Gets to Your Home
-		1. AC Circuits
-		1. Maxwell's Equations
-		1. Geometric Optics
-		1. Light Is Waves
-		1. Spectra Interference
-		1. Optical Instruments
-		1. Special Relativity
-		1. Quantum Mechanics - Part 1
-		1. Quantum Mechanics - Part 2
-		1. Nuclear Physics
-		1. Astrophysics and Cosmology
+		- 1. Motion in a Straight Line
+		  1. Derivatives
+		  1. Integrals
+		  1. Vectors and 2D Motion
+		  1. Newton's Laws
+		  1. Friction
+		  1. Uniform Circular Motion
+		  1. Newtonian Gravity
+		  1. Work, Energy, and Power
+		  1. Collisions
+		  1. Rotational Motion
+		  1. Torque
+		  1. Statics
+		  1. Fluids at Rest
+		  1. Fluids in Motion
+		  1. Simple Harmonic Motion
+		  1. Traveling Waves
+		  1. Sound
+		  1. The Physics of Music
+		  1. Temperature
+		  1. Kinetic Theory and Phase Changes
+		  1. The Physics of Heat
+		  1. Thermodynamics
+		  1. Engines
+		  1. Electric Charge
+		  1. Electric Fields
+		  1. Voltage, Electric Energy, and Capacitors
+		  1. Electric Current
+		  1. DC Resistors & Batteries
+		  1. Circuit Analysis
+		  1. Capacitors and Kirchhoff
+		  1. Magnetism
+		  1. Ampère's Law
+		  1. Induction - An Introduction
+		  1. How Power Gets to Your Home
+		  1. AC Circuits
+		  1. Maxwell's Equations
+		  1. Geometric Optics
+		  1. Light Is Waves
+		  1. Spectra Interference
+		  1. Optical Instruments
+		  1. Special Relativity
+		  1. Quantum Mechanics - Part 1
+		  1. Quantum Mechanics - Part 2
+		  1. Nuclear Physics
+		  1. Astrophysics and Cosmology
