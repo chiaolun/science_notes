@@ -1,0 +1,2 @@
+- Inspirations for the syllabus
+	-
