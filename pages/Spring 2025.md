@@ -1,4 +1,4 @@
-- Sprint 2025 runs from 2/20 to 5/29
-	- April 20, 22
-	-
+- Sprint 2025 runs from 2/20 to 5/29, with Thursdays on
+	- Feb 20, 22
+	- Mar 
 -
