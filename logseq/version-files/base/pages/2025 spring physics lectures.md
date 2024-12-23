@@ -1,5 +1,6 @@
 - Inspirations for the syllabus
 	- https://www.khanacademy.org/science/highschool-physics
+	  collapsed:: true
 		- Unit 1: Motion and forces
 			- Describing motion
 			- Forces
@@ -10,38 +11,39 @@
 			- Momentum
 			- Impulse
 			- Activity: How do engineers design safety cushions to save lives?
-	- Unit 3: Gravitation
-		- Newton's law of gravitation
-		- Falling objects
-		- Orbital motion
-		- Activity: Why is a Neptune year so long?
-	- Unit 4: Electrostatics
-		- Coulomb's law
-		- Static electricity
-		- Activity: Why do clothes develop static cling in a dryer?
-	- Unit 5: Energy
-		- Kinetic and potential energy
-		- Conservation of energy
-		- Activity: How do engineers design roller coasters?
-		- Work and power
-	- Unit 6: Electromagnetics
-		- Voltage and current
-		- Magnetic field due to current
-		- Electric motors
-		- Electromagnetic induction
-		- Activity: How can motion produce electricity?
-		- Electric generators
-	- Unit 7: Electromagnetic radiation
-		- The electromagnetic spectrum
-		- Wave behaviors of EM radiation
-		- Activity: Why do optical discs reflect rainbow colors?
-		- Particle behaviors of EM radiation
-		- Activity: How can starlight reveal the elements in a star?
-		- EM radiation from the Sun
-		- Activity: How do carbon dioxide and albedo affect how Earth interacts with sunlight?
-	- Unit 8: Nuclear physics
-		- Radioactive decay
-		- Half-life
-		- Activity: How do we know when dinosaurs lived on Earth?
-		- Nuclear fusion
-		- Nuclear fission
+		- Unit 3: Gravitation
+			- Newton's law of gravitation
+			- Falling objects
+			- Orbital motion
+			- Activity: Why is a Neptune year so long?
+		- Unit 4: Electrostatics
+			- Coulomb's law
+			- Static electricity
+			- Activity: Why do clothes develop static cling in a dryer?
+		- Unit 5: Energy
+			- Kinetic and potential energy
+			- Conservation of energy
+			- Activity: How do engineers design roller coasters?
+			- Work and power
+		- Unit 6: Electromagnetics
+			- Voltage and current
+			- Magnetic field due to current
+			- Electric motors
+			- Electromagnetic induction
+			- Activity: How can motion produce electricity?
+			- Electric generators
+		- Unit 7: Electromagnetic radiation
+			- The electromagnetic spectrum
+			- Wave behaviors of EM radiation
+			- Activity: Why do optical discs reflect rainbow colors?
+			- Particle behaviors of EM radiation
+			- Activity: How can starlight reveal the elements in a star?
+			- EM radiation from the Sun
+			- Activity: How do carbon dioxide and albedo affect how Earth interacts with sunlight?
+		- Unit 8: Nuclear physics
+			- Radioactive decay
+			- Half-life
+			- Activity: How do we know when dinosaurs lived on Earth?
+			- Nuclear fusion
+			- Nuclear fission
+	-
