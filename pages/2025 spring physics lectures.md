@@ -146,4 +146,4 @@
 		  logseq.order-list-type:: number
 		- Astrophysics and Cosmology
 		  logseq.order-list-type:: number
-- MIT OpenCourseWare
+- MIT OpenCourseWare - 8.01SC | Fall 2016 | Undergraduate
