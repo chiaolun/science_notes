@@ -146,4 +146,5 @@
 		  logseq.order-list-type:: number
 		- Astrophysics and Cosmology
 		  logseq.order-list-type:: number
-- MIT OpenCourseWare - 8.01SC | Fall 2016 | Undergraduate
+- [MIT OpenCourseWare - 8.01SC | Fall 2016 | Undergraduate](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
+	-
