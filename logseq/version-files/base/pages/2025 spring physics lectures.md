@@ -1,4 +1,4 @@
-- Inspirations for the syllabus
+- Syllabus sources
 	- [Khan Academy](https://www.khanacademy.org/science/highschool-physics)
 		- Motion and forces
 		  logseq.order-list-type:: number
