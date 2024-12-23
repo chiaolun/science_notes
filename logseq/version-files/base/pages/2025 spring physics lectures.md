@@ -1,6 +1,5 @@
 - Inspirations for the syllabus
 	- [Khan Academy](https://www.khanacademy.org/science/highschool-physics)
-	  collapsed:: true
 		- Unit 1: Motion and forces
 		  collapsed:: true
 			- Describing motion
