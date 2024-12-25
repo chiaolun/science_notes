@@ -2,6 +2,7 @@
 	- [[Khan Academy High School Physics]]
 	- [[Crash Course Physics]]
 	- [[MIT OpenCourseWare - 8.01SC | Fall 2016 | Undergraduate]]
+		- Pretty awful presentation, only useful for syllabus considerations
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
