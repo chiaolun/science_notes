@@ -5,3 +5,4 @@
 		- Strategy is fully characterized by a one dimensional distribution of the hidden number. This would be 100 positive numbers that sum to one.
 	- Guesser
 		- Strategy is characterized by a policy function that takes as input a lower and upper bound (summarizing information obtained from previous guesses) and outputting the distribution of next guesses.
+- The optimal strategy for the
