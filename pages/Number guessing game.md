@@ -1,7 +1,7 @@
-- From The Art of Strategy by Avinash Dixit and Barry Nalebuff
-- Guess the number that I picked, an integer between 1 and 100. After each of your guesses, I’ll tell you if the number you guessed is higher or lower than the number I picked. Game would start with \$100 prize money and reduce \$20 for each wrong guess. So \$100 for first guess, \$80 for second, etc etc.
+- The Art of Strategy by Avinash Dixit and Barry Nalebuff
+	- Guess the number that I picked, an integer between 1 and 100. After each of your guesses, I’ll tell you if the number you guessed is higher or lower than the number I picked. Game would start with \$100 prize money and reduce \$20 for each wrong guess. So \$100 for first guess, \$80 for second, etc etc.
 - Two players in this game:
 	- Picker
 		- Strategy is fully characterized by a one dimensional distribution of the hidden number. This would be 100 positive numbers that sum to one.
 	- Guesser
-		- Strategy is characterized by a policy function that takes as input a lower and upper bound (summarizing information obtained from previous guesses) and outputing
+		- Strategy is characterized by a policy function that takes as input a lower and upper bound (summarizing information obtained from previous guesses) and outputting the distribution of next guesses
