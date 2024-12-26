@@ -8,8 +8,8 @@
 - If you know the picker's policy, as represented by the distribution of picks from 1 to 100, the optimal strategy for the guesser can be obtained by constructing a value function. The value function gives the expected gain given what you know about the lower and upper bounds, and can be defined recursively by adding up the value of the three possible outcomes from a guess - the pick is either less than, equal to, or greater than your guess.
 	- Value of guessing $k$ given $lower$ and $upper$ and with $n$ guesses is equal to
 		- Getting it right with $P_k$
-		- Pick being lower with $\Sigma_{i=lower}^{k-1} P_i \times V(n - 1, lower, k-1)$
-		- Pick being lower with $\Sigma_{i=lower}^{k-1} P_i \times V(n - 1, k + 1, upper)$
+		- Pick being lower with $(\Sigma_{i=lower}^{k-1} P_i )\times V(n - 1, lower, k-1)$
+		- Pick being lower with $(\Sigma_{i=k+1}^{upper} P_i) \times V(n - 1, k + 1, upper)$
 		-
 		-
 		-
