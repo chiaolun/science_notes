@@ -5,4 +5,5 @@
 		- Strategy is fully characterized by a one dimensional distribution of the hidden number. This would be 100 positive numbers that sum to one.
 	- Guesser
 		- Strategy is characterized by a policy function that takes as input a lower and upper bound (summarizing information obtained from previous guesses) and outputting the distribution of next guesses.
-- If you know the picker's policy, as represented by the distribution of picks from 1 to 100, the optimal strategy for the guesser can be obtained by constructing a value function. The value function gives the expected gain given what you know about the lower and upper bounds, and can be defined recursively by adding up the value of the three possible outcomes from a guess
+- If you know the picker's policy, as represented by the distribution of picks from 1 to 100, the optimal strategy for the guesser can be obtained by constructing a value function. The value function gives the expected gain given what you know about the lower and upper bounds, and can be defined recursively by adding up the value of the three possible outcomes from a guess - the pick is either less than, equal to, or greater than your guess.
+	- V(lower, upper) =
