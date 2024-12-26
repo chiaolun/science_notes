@@ -13,4 +13,4 @@
 			- Pick being lower with $(\Sigma_{i=k+1}^{upper} P_i) \times V(n - 1, k + 1, upper)$
 		- V consists of summing these terms with a max over k, i.e., picking the best guess for any given $(n, lower, upper)$
 		- When $n = 0$, $V = 0$, so the recursion terminates
-- Given that I have two players in a zero-sum game, and I know how to solve for player
+- Given that I have two players in a zero-sum game, and I know how to solve for player 2's optimal strategy given knowledge of player 1's strategy, if I then optimizer player
