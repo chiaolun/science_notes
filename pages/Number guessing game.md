@@ -19,4 +19,4 @@
 	  To find the Nash equilibrium, you need both players to be optimizing their strategies. By optimizing player 1 to minimize player 2's gain (which is equivalent to maximizing player 1's payoff in a zero-sum context), you are essentially looking for player 1's best response to player 2's strategy. If you follow this process iteratively for both players, or if both players are simultaneously playing their optimal strategies, you should arrive at the Nash equilibrium.
 	  
 	  In zero-sum games, the Nash equilibrium corresponds to a situation where player 1 is minimizing player 2's maximum possible gain, and player 2 is maximizing their payoff given player 1's strategy. Therefore, optimizing player 1 to minimize player 2's gain, while simultaneously having player 2 best respond to player 1's strategy, will lead to the Nash equilibrium.
-	- In this case, however,
+	- In this case, the optimal strategy for the guesser given the picker strategy is deterministic, but no deterministic strategy can be
