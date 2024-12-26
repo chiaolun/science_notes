@@ -20,4 +20,3 @@
 	  
 	  In zero-sum games, the Nash equilibrium corresponds to a situation where player 1 is minimizing player 2's maximum possible gain, and player 2 is maximizing their payoff given player 1's strategy. Therefore, optimizing player 1 to minimize player 2's gain, while simultaneously having player 2 best respond to player 1's strategy, will lead to the Nash equilibrium.
 	- In this case, the optimal strategy for the guesser given the picker strategy is deterministic, but no deterministic strategy can be resistant to unilateral deviation. What am I missing in my logic?
-		-
