@@ -13,4 +13,9 @@
 			- Pick being lower with $(\Sigma_{i=k+1}^{upper} P_i) \times V(n - 1, k + 1, upper)$
 		- V consists of summing these terms with a max over k, i.e., picking the best guess for any given $(n, lower, upper)$
 		- When $n = 0$, $V = 0$, so the recursion terminates
-- Given that I have two players in a zero-sum game, and I know how to solve for player 2's optimal strategy given knowledge of player 1's strategy, if I then optimizer player
+- Given that I have two players in a zero-sum game, and I know how to solve for player 2's optimal strategy given knowledge of player 1's strategy, if I then optimizer player 1 to minimize player 2's gain, does this guarantee that I will arrive at the Nash equilibrium?
+	- In a zero-sum game, the goal is typically to find the Nash equilibrium where no player can benefit by unilaterally changing their strategy. If you know player 1's strategy and can solve for player 2's optimal response, that gives you the optimal strategy for player 2 given player 1's strategy. 
+	  
+	  To find the Nash equilibrium, you need both players to be optimizing their strategies. By optimizing player 1 to minimize player 2's gain (which is equivalent to maximizing player 1's payoff in a zero-sum context), you are essentially looking for player 1's best response to player 2's strategy. If you follow this process iteratively for both players, or if both players are simultaneously playing their optimal strategies, you should arrive at the Nash equilibrium.
+	  
+	  In zero-sum games, the Nash equilibrium corresponds to a situation where player 1 is minimizing player 2's maximum possible gain, and player 2 is maximizing their payoff given player 1's strategy. Therefore, optimizing player 1 to minimize player 2's gain, while simultaneously having player 2 best respond to player 1's strategy, will lead to the Nash equilibrium.
