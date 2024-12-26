@@ -10,4 +10,5 @@
 		- Getting it right with $P_k$
 		- Pick being lower with $(\Sigma_{i=lower}^{k-1} P_i )\times V(n - 1, lower, k-1)$
 		- Pick being lower with $(\Sigma_{i=k+1}^{upper} P_i) \times V(n - 1, k + 1, upper)$
+	- V consists of summing these terms with a max over k, i.e., picking the best guess for any given $(n, lower, upper)$
 	- When $n = 0$, $V = 0$, so the recursion terminates
