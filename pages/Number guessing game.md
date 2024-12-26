@@ -6,6 +6,10 @@
 	- Guesser
 		- Strategy is characterized by a policy function that takes as input a lower and upper bound (summarizing information obtained from previous guesses) and outputting the distribution of next guesses.
 - If you know the picker's policy, as represented by the distribution of picks from 1 to 100, the optimal strategy for the guesser can be obtained by constructing a value function. The value function gives the expected gain given what you know about the lower and upper bounds, and can be defined recursively by adding up the value of the three possible outcomes from a guess - the pick is either less than, equal to, or greater than your guess.
-	- Value of guessing $k$ given $lower$ and $upper$
+	- Value of guessing $k$ given $lower$ and $upper$ is equal to
+		- Getting it right with $P_k$
+		- Pick being lower with $\Sigma$
+		-
+		-
 	- V(lower, upper) = max_k (taking the best possible k) out of a sum of
 		-
