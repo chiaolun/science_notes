@@ -2,10 +2,10 @@
 	- Guess the number that I picked, an integer between 1 and 100. After each of your guesses, I’ll tell you if the number you guessed is higher or lower than the number I picked. Game would start with \$100 prize money and reduce \$20 for each wrong guess. So \$100 for first guess, \$80 for second, etc etc. - The Art of Strategy by Avinash Dixit and Barry Nalebuff
 	- Two players
 		- Picker
-			- Strategy is fully characterized by a one dimensional distribution of the hidden number. This would be 100 positive numbers that sum to one.
+			- Policy is fully characterized by a one dimensional distribution of the hidden number. This would be 100 positive numbers that sum to one.
 		- Guesser
-			- Strategy is characterized by a policy function that takes as input a lower and upper bound (summarizing information obtained from previous guesses) and outputting the distribution of next guesses.
-- ### Guesser Strategy given Picker
+			- Policy is characterized by a policy function that takes as input a lower and upper bound (summarizing information obtained from previous guesses) and outputting the distribution of next guesses.
+- ### Guesser Policy given Picker
 	- If you know the picker's policy, as represented by the distribution of picks from 1 to 100, the optimal strategy for the guesser can be obtained by constructing a value function. The value function gives the expected gain given what you know about the lower and upper bounds, and can be defined recursively by adding up the value of the three possible outcomes from a guess - the pick is either less than, equal to, or greater than your guess.
 		- Value of guessing $k$ given $lower$ and $upper$ and with $n$ guesses is equal to (unnormalized)
 			- Getting it right with $P_k$
@@ -13,3 +13,4 @@
 			- Pick being lower with $(\Sigma_{i=k+1}^{upper} P_i) \times V(n - 1, k + 1, upper)$
 		- V consists of summing these terms with a max over k, i.e., picking the best guess for any given $(n, lower, upper)$
 		- When $n = 0$, $V = 0$, so the recursion terminates
+- Given that I have two players in a zero-sum game, and I know how to solve for player
