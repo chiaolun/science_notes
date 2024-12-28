@@ -1,0 +1,2 @@
+- https://en.wikipedia.org/wiki/Divisibility_rule
+-
