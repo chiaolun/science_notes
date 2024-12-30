@@ -1,3 +1,5 @@
+- Syllabus
+	-
 - Classes
 	- [[2025-02-20 chemistry]]
 	  logseq.order-list-type:: number
