@@ -25,8 +25,8 @@
 			  logseq.order-list-type:: number
 		- At stage 3, the two objects have no velocity relative to each other, and are traveling at the same absolute velocity. What is that velocity?
 			- Is it $\frac{v_1 + v_2}{2}$?
-				- No, because if the two objects have different masses,
-			- Given that object 1 has mass $m_1$ and object 2 has mass $m_2$, and the decelerating force each is experiencing is the same (due to the 3rd law),
+				- Not if the two objects have different masses
+			- bject 1 has mass $m_1$ and object 2 has mass $m_2$, and the decelerating force each is experiencing is the same (due to the 3rd law),
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
