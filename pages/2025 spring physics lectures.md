@@ -15,9 +15,11 @@
 	- What happens during a collision between two objects?
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- Stages
-			- Objects are far from each other and approach with velocities v1 and v2,
+			- Objects approach each other with velocities v1 and v2.
 			  logseq.order-list-type:: number
-			- object pushes on another object with a force that monotonically increases as they get closer.
+			- In the beginning, they do not experience any repulsion from each other
+			  logseq.order-list-type:: number
+			- At some distance $R$ object pushes on another object with a force that monotonically increases as they get closer.
 			  logseq.order-list-type:: number
 - Classes
 	- [[2025-02-20 physics]]
