@@ -7,7 +7,7 @@
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
-		- Newton's Laws of Motion
+		-
 	- [[2025-03-06 physics]]
 	  logseq.order-list-type:: number
 	- [[2025-03-13 physics]]
