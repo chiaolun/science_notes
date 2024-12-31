@@ -19,8 +19,9 @@
 			  logseq.order-list-type:: number
 			- In the beginning, they do not experience any repulsion from each other
 			  logseq.order-list-type:: number
-			- At some distance $R$ object pushes on another object with a force that monotonically increases as they get closer.
+			- At some distance $R$, they start experiencing a force that monotonically increases as they get closer. We assume that the force is purely a function of the distance between them.
 			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
