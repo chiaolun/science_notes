@@ -23,7 +23,7 @@
 			  logseq.order-list-type:: number
 			- As they push on each other, their relative velocity goes down, until it reaches zero. At this point the two objects have the same absolute velocity as each other.
 			  logseq.order-list-type:: number
-			- They continue to push on each other, and begin to accelerate away from each other. This acceleration is the
+			- The two objects begin to accelerate away from each other, and because the force is purely a function of the distance, the
 			  logseq.order-list-type:: number
 - Classes
 	- [[2025-02-20 physics]]
