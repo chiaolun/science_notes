@@ -15,9 +15,9 @@
 	- What happens during a collision between two objects?
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- Stages of a Collision
-			- Objects approach each other with some relative velocity v.
+			- Objects approach each other with some relative velocity v, each experiencing no net force.
 			  logseq.order-list-type:: number
-			- At some distance $R$, they begin to experience a force that strictly increases as they get closer. The force is purely a function of the distance between them.
+			- At some distance $R$, they begin to repel each other with a force that strictly increases as they get closer. The force is purely a function of the distance between the two objects.
 			  logseq.order-list-type:: number
 			- As they push on each other, their relative velocity goes down, until it reaches zero. At this point the two objects have the same absolute velocity as each other.
 			  logseq.order-list-type:: number
