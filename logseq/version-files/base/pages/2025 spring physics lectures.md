@@ -14,7 +14,7 @@
 		  logseq.order-list-type:: number
 	- What happens during a collision between two objects?
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
-		- One object pushes on another object with a force that increases as their
+		- One object pushes on another object with a force that increases as they get closer.
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
