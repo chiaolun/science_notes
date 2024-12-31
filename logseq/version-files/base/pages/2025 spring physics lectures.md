@@ -24,7 +24,7 @@
 			- The two objects begin to accelerate away from each other, and because the force is purely a function of the distance, the two objects will eventually gain relative velocity -v, same magnitude but exactly opposite the direction of the initial relative velocity.
 			  logseq.order-list-type:: number
 		- At stage 3, the two objects have no velocity relative to each other, and are traveling at the same absolute velocity. What is that velocity?
-			- The decelerating force each object is experiencing is the same (due to the 3rd law). The lighter object experiences a greater change in velocity than the heavier object,
+			- The decelerating force each object is experiencing is the same (due to the 3rd law). According the the 2nd law, the acceleration experienced is inversely proportional to the mass of each object.
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
