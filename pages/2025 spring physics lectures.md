@@ -26,7 +26,7 @@
 		- At stage 3, the two objects have no velocity relative to each other, and are traveling at the same absolute velocity. What is that velocity?
 			- Is it $\frac{v_1 + v_2}{2}$?
 				- Not if the two objects have different masses
-			- The decelerating force each object is experiencing is the same (due to the 3rd law).
+			- The decelerating force each object is experiencing is the same (due to the 3rd law). The lighter object experiences a greater change in velocity than the heavier object.
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
