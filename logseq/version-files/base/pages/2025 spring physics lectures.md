@@ -13,7 +13,7 @@
 		- If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.
 		  logseq.order-list-type:: number
 	- What happens during a collision between two objects of the same mass?
-		-
+		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- One object exerts a force on another object
 - Classes
 	- [[2025-02-20 physics]]
