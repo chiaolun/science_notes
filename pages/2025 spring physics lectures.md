@@ -14,16 +14,14 @@
 		  logseq.order-list-type:: number
 	- What happens during a collision between two objects?
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
-		- Stages
+		- Stages of a Collision
 			- Objects approach each other with some relative velocity v.
 			  logseq.order-list-type:: number
-			- In the beginning, they do not experience any repulsion from each other
-			  logseq.order-list-type:: number
-			- At some distance $R$, they start experiencing a force that strictly increases as they get closer. We assume that the force is purely a function of the distance between them.
+			- At some distance $R$, they begin to experience a force that strictly increases as they get closer. The force is purely a function of the distance between them.
 			  logseq.order-list-type:: number
 			- As they push on each other, their relative velocity goes down, until it reaches zero. At this point the two objects have the same absolute velocity as each other.
 			  logseq.order-list-type:: number
-			- The two objects begin to accelerate away from each other, and because the force is purely a function of the distance, the two objects will eventually gain relative velocity -v, exactly opposite the direction of the
+			- The two objects begin to accelerate away from each other, and because the force is purely a function of the distance, the two objects will eventually gain relative velocity -v, same magnitude but exactly opposite the direction of the initial relative velocity.
 			  logseq.order-list-type:: number
 - Classes
 	- [[2025-02-20 physics]]
