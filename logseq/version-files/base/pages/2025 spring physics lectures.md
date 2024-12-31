@@ -23,6 +23,7 @@
 			  logseq.order-list-type:: number
 			- The two objects begin to accelerate away from each other, and because the force is purely a function of the distance, the two objects will eventually gain relative velocity -v, same magnitude but exactly opposite the direction of the initial relative velocity.
 			  logseq.order-list-type:: number
+		- At stage 3, the two objects are traveling at the same absolute velocity. What is that velocity?
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
