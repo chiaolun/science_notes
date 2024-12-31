@@ -41,4 +41,5 @@
 	  logseq.order-list-type:: number
 	- [[2025-06-19 physics]]
 	  logseq.order-list-type:: number
-	- [[2025-06-26 
+	- [[2025-06-26 physics]]
+	  logseq.order-list-type:: number
