@@ -5,7 +5,7 @@
 		- Pretty awful presentation, only useful for syllabus considerations
 	- https://www.feynmanlectures.caltech.edu/
 - Topics
-	- [Newton's Laws of Motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+	- ## [Newton's Laws of Motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
 		- A body remains at rest, or in motion at a constant speed in a straight line, except insofar as it is acted upon by a force.
 		  logseq.order-list-type:: number
 		- At any instant of time, the net force on a body is equal to the rate at which the body's momentum is changing with time.
@@ -59,11 +59,11 @@
 				- The only assumption we have made is that the force with which objects push each other depends only on the distance between them.
 				- Over the course of a collision, they are at any particular inter-object distance exactly twice - the first time while decelerating and the second time while accelerating, with respect to a special velocity $v_c$.
 		- ### Special cases
-			| Case | $m_1$ | $m_2$ | $v_{1i}$ | $v_{2i}$ | $v_c$ | $u_1$ | $u_2$ | $v_{1f}$ | $v_{2f}$ |
-			|------|-------|-------|-----------|-----------|--------|--------|--------|-----------|-----------|
-			| Equal masses | $m$ | $m$ | $v$ | $0$ | $v/2$ | $v/2$ | $-v/2$ | $0$ | $v$ |
-			| Massive $m_2$ | $m$ | $\infty$ | $v$ | $0$ | $0$ | $v$ | $0$ | $-v$ | $0$ |
-			| Massive $m_1$ | $\infty$ | $m$ | $v$ | $0$ | $v$ | $0$ | $-v$ | $v$ | $2v$ |
+		  | Case | $m_1$ | $m_2$ | $v_{1i}$ | $v_{2i}$ | $v_c$ | $u_1$ | $u_2$ | $v_{1f}$ | $v_{2f}$ |
+		  |------|-------|-------|-----------|-----------|--------|--------|--------|-----------|-----------|
+		  | Equal masses | $m$ | $m$ | $v$ | $0$ | $v/2$ | $v/2$ | $-v/2$ | $0$ | $v$ |
+		  | Massive $m_2$ | $m$ | $\infty$ | $v$ | $0$ | $0$ | $v$ | $0$ | $-v$ | $0$ |
+		  | Massive $m_1$ | $\infty$ | $m$ | $v$ | $0$ | $v$ | $0$ | $-v$ | $v$ | $2v$ |
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
