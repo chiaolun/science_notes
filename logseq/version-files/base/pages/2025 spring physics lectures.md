@@ -32,9 +32,9 @@
 			  By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. 
 			  $m_1v_1 \rightarrow m_1v_1 + F \Delta t$
 			  $m_2v_2 \rightarrow m_2v_2 - F \Delta t$
-			- Therefore, as long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same. This fact is called the conservation of momentum, and it follows directly from Newton's Laws.
+			- Therefore, as long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same. This fact straightforwardly from Newton's Laws and is called the conservation of momentum.
 		- ### Center of Mass
-			- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$. It's the center-of-mass velocity
+			- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$. It's the center-of-mass velocity, the velocity of the mass-weighted average of the object positions.
 			  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
 			- We express initial velocities $v_1$ and $v_2$ relative to $v_c$
 			  $v_{i1} = v_c + u_1$
