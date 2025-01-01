@@ -69,7 +69,7 @@
 		  | Massive $m_2$ | $m$ | $\infty$ | $v$ | $0$ | $0$ | $v$ | $0$ | $-v$ | $0$ |
 		  | Massive $m_1$ | $\infty$ | $m$ | $v$ | $0$ | $v$ | $0$ | $-v$ | $v$ | $2v$ |
 		- ### Related phenomena
-			- Gravity assist
+			- Gravity assist - https://youtube.com/shorts/kD8PFhj_a8s
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
