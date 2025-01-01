@@ -46,6 +46,8 @@
 			  $\frac{1}{2}m_1v_{f1}^2 + \frac{1}{2}m_2v_{f2}^2 = \frac{1}{2}m_1(v_c - u_1)^2 + \frac{1}{2}m_2(v_c - u_2)^2$
 			- Change:
 			  $-2(m_1 v_c u_1 + m_2 v_c u_2)$
+			- Equation for $v_c$:
+			  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
