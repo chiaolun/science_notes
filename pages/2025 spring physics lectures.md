@@ -40,7 +40,7 @@
 		  $v_{f1} = v_c - u_1$
 		  $v_{f2} = v_c - u_2$
 		- ### Kinetic energy
-			- Define kinetic energy as $\frac{1}{2} m_iv_i^2$
+			- Define kinetic ener``gy as $\frac{1}{2} m_iv_i^2$
 			- Total initial kinetic energy:
 			  $\frac{1}{2}m_1v_{i1}^2 + \frac{1}{2}m_2v_{i2}^2 = \frac{1}{2}m_1(v_c + u_1)^2 + \frac{1}{2}m_2(v_c + u_2)^2$
 			- Total final kinetic energy:
@@ -52,6 +52,7 @@
 			  $m_1(v_1 - v_c) + m_2(v_2 - v_c) = 0$
 			  $m_1u_1 + m_2u_2 = 0$
 			- Therefore, the change in kinetic energy is zero
+		- What have we
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
