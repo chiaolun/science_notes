@@ -48,6 +48,7 @@
 			  $-2(m_1 v_c u_1 + m_2 v_c u_2)$
 			- Equation for $v_c$:
 			  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
+			  $m_1(v_1 - v_c) = m_2(v_2 - v_c)$
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
