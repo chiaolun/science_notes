@@ -6,7 +6,7 @@
 	- https://www.feynmanlectures.caltech.edu/
 - # Topics
 	- ## What happens during an elastic collision between two objects?
-id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
+	  id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- Google Sheet: https://docs.google.com/spreadsheets/d/15QTjeJ3KmXb2e4EEhlIAe2XcZFYjxnjOq6-VsZXBMdk/edit?usp=sharing
 			- **Exercise:** use a [Verlet integrator](https://en.wikipedia.org/wiki/Verlet_integration) to improve the accuracy of the math in the spreadsheet
@@ -33,7 +33,7 @@ id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
 			  By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. 
 			  $m_1v_1 \rightarrow m_1v_1 + F \Delta t$
 			  $m_2v_2 \rightarrow m_2v_2 - F \Delta t$
-			- Therefore, as long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same. This fact straightforwardly from Newton's Laws and is called the conservation of momentum.
+			- Therefore, as long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same. This fact follows straightforwardly from Newton's Laws and is called the conservation of momentum.
 		- ### Center of Mass
 			- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$. It's the center-of-mass velocity, the velocity of the mass-weighted average of the object positions.
 			  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
