@@ -40,6 +40,7 @@
 		  $v_{f1} = v_c - u_1$
 		  $v_{f2} = v_c - u_2$
 		- ### Kinetic energy
+			- Define kinetic energy as $\frac{1}{2} m_iv_i^2$
 			- Initial kinetic energy:
 			  $\frac{1}{2}m_1v_{i1}^2 + \frac{1}{2}m_2v_{i2}^2 = \frac{1}{2}m_1(v_c + u_1)^2 + \frac{1}{2}m_2(v_c + u_2)^2$
 			- Final kinetic energy:
