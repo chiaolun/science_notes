@@ -37,7 +37,9 @@
 		  $v_{i1} = v_c + u_1$
 		  $v_{i2} = v_c + u_2$
 		- The final velocities are thus
-		  $v_
+		  $v_{f1} = v_c - u_1$
+		  $v_{f2} = v_c - u_2$
+		-
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
