@@ -71,6 +71,11 @@ id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
 		  | Massive $m_1$ | $\infty$ | $m$ | $v$ | $0$ | $v$ | $0$ | $-v$ | $v$ | $2v$ |
 		- ### Related phenomena
 			- Gravity assist - https://youtube.com/shorts/kD8PFhj_a8s - nothing in our analysis says the force needs to be a push, a pull can work as well. Gravity assists slow down planets a bit in exchange for speeding up the spacecraft a lot. Which special case is it? What does this tell us about the maximum speed boost you get?
+	- 2D
+		- Rigid bodies
+			- Rotation
+		- Ballistic motion
+		-
 - # Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
