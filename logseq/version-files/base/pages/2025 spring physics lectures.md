@@ -52,7 +52,11 @@
 			  $m_1(v_1 - v_c) + m_2(v_2 - v_c) = 0$
 			  $m_1u_1 + m_2u_2 = 0$
 			- Therefore, the change in kinetic energy is zero
-		- What have we
+		- ### Questions
+			- Is total momentum the same throughout the interaction?
+			- Is total kinetic energy the same throughout the interaction?
+			- What is the assumption that we've made that tells us the total kinetic energy before and after the collision will be the same?
+				- We have assumed that the force with which objects push each other depends only on the distance between them. Over the course of a collision,
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
