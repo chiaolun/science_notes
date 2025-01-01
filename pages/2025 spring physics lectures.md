@@ -39,7 +39,7 @@
 		- The final velocities are thus
 		  $v_{f1} = v_c - u_1$
 		  $v_{f2} = v_c - u_2$
-		- Kinetic energy
+		- ### Kinetic energy
 			- Initial kinetic energy:
 			  $\frac{1}{2}m_1v_{i1}^2 + \frac{1}{2}m_2v_{i2}^2 = \frac{1}{2}m_1(v_c + u_1)^2 + \frac{1}{2}m_2(v_c + u_2)^2$
 			- Final kinetic energy:
