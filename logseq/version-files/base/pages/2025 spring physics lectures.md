@@ -8,7 +8,7 @@
 	- ## What happens during an elastic collision between two objects?
 id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
-		- Google Sheet
+		- Google Sheet: https://docs.google.com/spreadsheets/d/15QTjeJ3KmXb2e4EEhlIAe2XcZFYjxnjOq6-VsZXBMdk/edit?usp=sharing
 		- ### Newton's Laws of Motion
 		  id:: 67735051-a87f-42c8-bdc6-d8c4752c29f0
 		  wikipedia: https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
