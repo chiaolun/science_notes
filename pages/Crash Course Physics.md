@@ -1,4 +1,4 @@
-- Source: https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV
+- Source: https://thecrashcourse.com/topic/physics/
 - Syllabus
 	- Motion in a Straight Line
 	  logseq.order-list-type:: number
