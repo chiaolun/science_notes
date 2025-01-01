@@ -63,8 +63,7 @@
 			  $v_c = v_1 / 2$
 			  $u_1 = v_1 / 2$
 			  $u_2 = -v_1 / 2$
-			  and final velocities are
-			  $
+			  and velocities go from $(v, 0)$ to $(0, v)$ for
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
