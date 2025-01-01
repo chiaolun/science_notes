@@ -75,7 +75,8 @@ id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
 		- Rigid bodies
 			- Rotation
 		- Ballistic motion
-		-
+		- The 2-body problem
+		- The 3-body problem
 - # Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
