@@ -17,7 +17,7 @@
 		- Stages of a Collision
 			- Objects approach each other with some relative velocity v, each initially experiencing no net force.
 			  logseq.order-list-type:: number
-			- At some distance $R$, they begin to repel each other with a force that strictly increases as they get closer. The force is purely a function of the distance between the two objects.
+			- As they get closer, they begin to repel each other with a force that strictly increases as they get closer. The force is purely a function of the distance between the two objects.
 			  logseq.order-list-type:: number
 			- As they push on each other, their relative velocity goes down, until it reaches zero. At this point the two objects have the same absolute velocity as each other.
 			  logseq.order-list-type:: number
