@@ -68,7 +68,9 @@
 			  $v_c = 0$
 			  $u_1 = v_1$
 			  $u_2 = 0$
-			  and velocities go t
+			  and velocities go from $(v, 0)$ to $(-v, 0)$ for (object 1, object 2)
+			- If object 1 is massive, and object 2 is initially at rest, then
+			  $v_c = v$
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
