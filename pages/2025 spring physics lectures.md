@@ -33,6 +33,8 @@
 			- As long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same! We call this the conservation of momentum, and we've derived it as a direct consequence of Newton's Laws.
 		- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$.
 		  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
+		- We express $v_1$ and $v_2$ relative to $v_c$
+		  $v_1 =
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
