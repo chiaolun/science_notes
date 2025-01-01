@@ -70,7 +70,10 @@
 			  $u_2 = 0$
 			  and velocities go from $(v, 0)$ to $(-v, 0)$ for (object 1, object 2)
 			- If object 1 is massive, and object 2 is initially at rest, then
-			  $v_c = v$
+			  $v_c = v_1$
+			  $u_1 = 0$
+			  $u_2 = -v$
+			  and velocities go from $(v,0)$ to $(v, 2v)$ for (object 1, object 2)
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
