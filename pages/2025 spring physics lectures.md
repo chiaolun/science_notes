@@ -56,7 +56,8 @@
 			- Is total momentum the same throughout the interaction?
 			- Is total kinetic energy the same throughout the interaction?
 			- What is the assumption that we've made that tells us the total kinetic energy before and after the collision will be the same?
-				- We have assumed that the force with which objects push each other depends only on the distance between them. Over the course of a collision, they are at any particular inter-object distance exactly twice - the first time while decelerating and the second time while accelerating,   - adding those up, each
+				- The only assumption we have made is that the force with which objects push each other depends only on the distance between them.
+				- Over the course of a collision, they are at any particular inter-object distance exactly twice - the first time while decelerating and the second time while accelerating, with respect to a special velocity $v_c$.
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
