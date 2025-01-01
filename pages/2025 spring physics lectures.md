@@ -59,7 +59,7 @@
 			- Is total momentum the same throughout the interaction?
 				- Yes! It follows from the 2nd and 3rd laws, and is always held.
 			- Is total kinetic energy the same throughout the interaction?
-				- No! We only showed it was the same before and after the collision. During the collision kinetic energy goes down and is . You can see this if you think about the case where $v_c = 0$ - at
+				- No! We only showed it was the same before and after the collision. During the collision kinetic energy goes down and is minimal at the point of closest approach. Consider the case where two objects come in from the left and the right and are stationary at
 			- What is the assumption that we've made that tells us the total kinetic energy before and after the collision will be the same?
 				- The only assumption we have made is that the force with which objects push each other depends only on the distance between them.
 				- Over the course of a collision, they are at any particular inter-object distance exactly twice - the first time while decelerating and the second time while accelerating, with respect to a special velocity $v_c$.
