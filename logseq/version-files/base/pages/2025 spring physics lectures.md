@@ -42,7 +42,7 @@
 		- ### Kinetic energy
 			- Define kinetic energy as $\frac{1}{2} m_iv_i^2$
 			- Total initial kinetic energy:
-			  $\frac{1}{2}m_1v_{i1}^2 + \frac{1}{2}m_2v_{i2}^2 = \frac{1}{2}m_1(v_c + u_1)^2 + \frac{1}{2}m_2(v_c + u_2)^2$
+			  $$\frac{1}{2}m_1v_{i1}^2 + \frac{1}{2}m_2v_{i2}^2 = \frac{1}{2}m_1(v_c + u_1)^2 + \frac{1}{2}m_2(v_c + u_2)^2$$
 			- Total final kinetic energy:
 			  $\frac{1}{2}m_1v_{f1}^2 + \frac{1}{2}m_2v_{f2}^2 = \frac{1}{2}m_1(v_c - u_1)^2 + \frac{1}{2}m_2(v_c - u_2)^2$
 			- Change in total kinetic energy:
@@ -64,7 +64,8 @@
 			  $u_1 = v_1 / 2$
 			  $u_2 = -v_1 / 2$
 			  and velocities go from $(v, 0)$ to $(0, v)$ for (object 1, object 2)
-			- If
+			- If object 2 is massive, and initially at rest, then
+			  $$v_c = 0$$
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
