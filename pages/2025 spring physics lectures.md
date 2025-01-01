@@ -53,8 +53,8 @@
 			  $m_1u_1 + m_2u_2 = 0$
 			- Therefore, the change in kinetic energy is zero
 		- ### Questions
-			- Is total momentum the same throughout the interaction?
-			- Is total kinetic energy the same throughout the interaction?
+			- Is total momentum the same throughout the interaction? Yes!
+			- Is total kinetic energy the same throughout the interaction? No!
 			- What is the assumption that we've made that tells us the total kinetic energy before and after the collision will be the same?
 				- The only assumption we have made is that the force with which objects push each other depends only on the distance between them.
 				- Over the course of a collision, they are at any particular inter-object distance exactly twice - the first time while decelerating and the second time while accelerating, with respect to a special velocity $v_c$.
