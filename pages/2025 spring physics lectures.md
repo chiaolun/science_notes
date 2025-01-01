@@ -52,8 +52,8 @@
 			  $m_1(v_1 - v_c) + m_2(v_2 - v_c) = 0$
 			  $m_1u_1 + m_2u_2 = 0$
 			- Therefore, the change in kinetic energy is zero
-		- ### What have we proven?
-			- As long as the force with which objects push each other depends only on the distance between them, i.e., they push each other
+		-
+			- As long as the force with which objects push each other depends only on the distance between them, i.e., they push each other with the same force whenever they are at a given distance apart, kinetic energy before and after a collision
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
