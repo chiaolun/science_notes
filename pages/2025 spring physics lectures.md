@@ -43,9 +43,9 @@
 			- Define kinetic energy as $\frac{1}{2} m_iv_i^2$
 			- Total initial kinetic energy:
 			  $\frac{1}{2}m_1v_{i1}^2 + \frac{1}{2}m_2v_{i2}^2 = \frac{1}{2}m_1(v_c + u_1)^2 + \frac{1}{2}m_2(v_c + u_2)^2$
-			- Final kinetic energy:
+			- Total final kinetic energy:
 			  $\frac{1}{2}m_1v_{f1}^2 + \frac{1}{2}m_2v_{f2}^2 = \frac{1}{2}m_1(v_c - u_1)^2 + \frac{1}{2}m_2(v_c - u_2)^2$
-			- Change:
+			- Change in total kinetic energy:
 			  $-2v_c(m_1 u_1 + m_2 u_2)$
 			- Equation for $v_c$:
 			  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
