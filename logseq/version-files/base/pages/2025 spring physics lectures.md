@@ -7,6 +7,7 @@
 - Topics
 	- ## [Newton's Laws of Motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
 	  id:: 67735051-a87f-42c8-bdc6-d8c4752c29f0
+	  collapsed:: true
 		- A body remains at rest, or in motion at a constant speed in a straight line, except insofar as it is acted upon by a force.
 		  logseq.order-list-type:: number
 		- At any instant of time, the net force on a body is equal to the rate at which the body's momentum is changing with time.
@@ -15,6 +16,7 @@
 		  logseq.order-list-type:: number
 	- ## What happens during a collision between two objects?
 	  id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
+	  collapsed:: true
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- ### Stages of a Collision
 			- Objects approach each other with some relative velocity v, each initially experiencing no net force.
