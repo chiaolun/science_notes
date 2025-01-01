@@ -34,9 +34,10 @@
 		- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$.
 		  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
 		- We express initial velocities $v_1$ and $v_2$ relative to $v_c$
-		  $v_1 = v_c + u_1$
-		  $v_2 = v_c + u_2$
-		- The final velocities
+		  $v_{i1} = v_c + u_1$
+		  $v_{i2} = v_c + u_2$
+		- The final velocities are thus
+		  $v_
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
