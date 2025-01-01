@@ -59,7 +59,12 @@
 				- The only assumption we have made is that the force with which objects push each other depends only on the distance between them.
 				- Over the course of a collision, they are at any particular inter-object distance exactly twice - the first time while decelerating and the second time while accelerating, with respect to a special velocity $v_c$.
 		- ### Special cases
-			- If the two objects are equal in mass, and object 2 is initially at rest, then $v_c = v_1 / 2$
+			- If the two objects are equal in mass, and object 2 is initially at rest, then
+			  $v_c = v_1 / 2$
+			  $u_1 = v_1 / 2$
+			  $u_2 = -v_1 / 2$
+			  and final velocities are
+			  $
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
