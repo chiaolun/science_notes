@@ -8,8 +8,9 @@
 	- ## What happens during an elastic collision between two objects?
 	  id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
-		- ### [Newton's Laws of Motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+		- ### Newton's Laws of Motion
 		  id:: 67735051-a87f-42c8-bdc6-d8c4752c29f0
+		  wikipedia: https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
 			- A body remains at rest, or in motion at a constant speed in a straight line, except insofar as it is acted upon by a force.
 			  logseq.order-list-type:: number
 			- At any instant of time, the net force on a body is equal to the rate at which the body's momentum is changing with time.
