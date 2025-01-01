@@ -1,5 +1,6 @@
 - Syllabus
-	-
+	- [[Khan Academy High School Chemistry]]
+	- [[Crash Course Chemistry]]
 - Classes
 	- [[2025-02-20 chemistry]]
 	  logseq.order-list-type:: number
