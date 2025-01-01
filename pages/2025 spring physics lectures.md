@@ -35,7 +35,7 @@
 			  $m_1 v_1 + m_2 v_2 \rightarrow m_1 (v_1 + \frac{F}{m_1} \Delta t) + m_2 (v_2 - \frac{F}{m_2} \Delta t) = m_1 v_1 + m_2 v_2$
 			- As long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same! This fact is called the conservation of momentum, and it follows directly from Newton's Laws.
 		- ### Center of Mass
-			- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$. 
+			- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$. It's the center-of-mass velocity
 			  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
 			- We express initial velocities $v_1$ and $v_2$ relative to $v_c$
 			  $v_{i1} = v_c + u_1$
