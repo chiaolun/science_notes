@@ -6,7 +6,7 @@
 	- https://www.feynmanlectures.caltech.edu/
 - # Topics
 	- ## What happens during an elastic collision between two objects?
-	  id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
+id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- Google Sheet
 		- ### Newton's Laws of Motion
