@@ -27,7 +27,8 @@
 			- The decelerating force each object is experiencing is the same (due to the 3rd law). By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. $v_1 \rightarrow v_1 + \frac{F}{m_1} \Delta t$
 			  $v_2 \rightarrow v_2 - \frac{F}{m_2} \Delta t$
 			- As a result, if you take the sum of products of masses by velocities, you get
-			  $m_1 v_1 + m_2 v_2 \rightarrow m_1 (v_1 + \frac{F}{m_1} \Delta t) + m_2 (v_2 - \frac{F}{m_2}) = m_1 v_1 + m_2 v_2 + (F - F)\Delta t = m_1 v_1 + m_2 v_2$
+			  $m_1 v_1 + m_2 v_2 \rightarrow m_1 (v_1 + \frac{F}{m_1} \Delta t) + m_2 (v_2 - \frac{F}{m_2} \Delta t) = m_1 v_1 + m_2 v_2$
+			- As a direct consequence of the 2nd and 3rd law, as long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same! We call this the conservation of momentum, and we've derived it as a direct consequence of
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
