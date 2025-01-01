@@ -12,7 +12,7 @@
 		  logseq.order-list-type:: number
 		- If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.
 		  logseq.order-list-type:: number
-	- What happens during a collision between two objects?
+	- ## What happens during a collision between two objects?
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- Stages of a Collision
 			- Objects approach each other with some relative velocity v, each initially experiencing no net force.
@@ -29,7 +29,7 @@
 			- As a result, if you take the sum of products of masses by velocities, you get
 			  $m_1 v_1 + m_2 v_2 \rightarrow m_1 (v_1 + \frac{F}{m_1} \Delta t) + m_2 (v_2 - \frac{F}{m_2} \Delta t) = m_1 v_1 + m_2 v_2$
 			- As long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same! We call this the conservation of momentum, and we've derived it as a direct consequence of Newton's Laws.
-		- Using the conservation of momentum, we can find the velocity that
+		- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3.
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number

@@ -12,7 +12,7 @@
 		  logseq.order-list-type:: number
 		- If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.
 		  logseq.order-list-type:: number
-	- What happens during a collision between two objects?
+	- ## What happens during a collision between two objects?
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- Stages of a Collision
 			- Objects approach each other with some relative velocity v, each initially experiencing no net force.
