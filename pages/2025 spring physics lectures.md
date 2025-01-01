@@ -16,7 +16,6 @@
 		  logseq.order-list-type:: number
 	- ## What happens during a collision between two objects?
 	  id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
-	  collapsed:: true
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- ### Stages of a Collision
 			- Objects approach each other with some relative velocity v, each initially experiencing no net force.
@@ -58,9 +57,9 @@
 			- Therefore, the change in kinetic energy is zero
 		- ### Questions
 			- Is total momentum the same throughout the interaction?
-				- Yes!
+				- Yes! It follows from the 2nd and 3rd laws, and is always held.
 			- Is total kinetic energy the same throughout the interaction?
-				- No!
+				- No! We only showed it was the same before and after the collision.
 			- What is the assumption that we've made that tells us the total kinetic energy before and after the collision will be the same?
 				- The only assumption we have made is that the force with which objects push each other depends only on the distance between them.
 				- Over the course of a collision, they are at any particular inter-object distance exactly twice - the first time while decelerating and the second time while accelerating, with respect to a special velocity $v_c$.
