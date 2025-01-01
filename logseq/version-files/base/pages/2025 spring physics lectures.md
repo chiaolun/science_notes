@@ -24,9 +24,10 @@
 			- The two objects begin to accelerate away from each other, and because the force is purely a function of the distance, the two objects will eventually gain relative velocity -v, same magnitude but exactly opposite the direction of the initial relative velocity.
 			  logseq.order-list-type:: number
 		- At stage 3, the two objects have no velocity relative to each other, and are traveling at the same absolute velocity. We will determine that velocity from $m_1, v_1, m_2, v_2$
-			- The decelerating force each object is experiencing is the same (due to the 3rd law). By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. Therefore:
-			  $v_1 \rightarrow v_1 + \frac{F}{m_1}$
+			- The decelerating force each object is experiencing is the same (due to the 3rd law). By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. $v_1 \rightarrow v_1 + \frac{F}{m_1}$
 			  $v_2 \rightarrow v_2 - \frac{F}{m_2}$
+			- As a result, if you take the sum of products of masses by velocities, you get
+			  $m_1 v_1 + m_2 v_2 \rightarrow m_1 (v_1 + \frac{F}{m_1}) + m_2 (v_2 - \frac{F}{m_2}) = m_1 v_1 + m_2 v_2 + F - F$
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
