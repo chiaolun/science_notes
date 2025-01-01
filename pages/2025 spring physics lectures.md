@@ -34,14 +34,15 @@
 			- As a result, if you take the sum of products of masses by velocities, you get
 			  $m_1 v_1 + m_2 v_2 \rightarrow m_1 (v_1 + \frac{F}{m_1} \Delta t) + m_2 (v_2 - \frac{F}{m_2} \Delta t) = m_1 v_1 + m_2 v_2$
 			- As long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same! This fact is called the conservation of momentum, and it follows directly from Newton's Laws.
-		- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$.
-		  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
-		- We express initial velocities $v_1$ and $v_2$ relative to $v_c$
-		  $v_{i1} = v_c + u_1$
-		  $v_{i2} = v_c + u_2$
-		- The final velocities are thus
-		  $v_{f1} = v_c - u_1$
-		  $v_{f2} = v_c - u_2$
+		- ### Center of Mass
+			- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$. 
+			  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
+			- We express initial velocities $v_1$ and $v_2$ relative to $v_c$
+			  $v_{i1} = v_c + u_1$
+			  $v_{i2} = v_c + u_2$
+			- The final velocities are thus
+			  $v_{f1} = v_c - u_1$
+			  $v_{f2} = v_c - u_2$
 		- ### Kinetic energy
 			- Define kinetic energy as $\frac{1}{2} m_iv_i^2$
 			- Total initial kinetic energy:
