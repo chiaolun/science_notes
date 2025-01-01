@@ -25,7 +25,8 @@
 			  logseq.order-list-type:: number
 		- At stage 3, the two objects have no velocity relative to each other, and are traveling at the same absolute velocity. We will determine that velocity from $m_1, v_1, m_2, v_2$
 			- The decelerating force each object is experiencing is the same (due to the 3rd law). By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. Therefore:
-			  $v_1 -> v_1$
+			  $v_1 \rightarrow v_1 + \frac{F}{m_1}$
+			  $v_2 \rightarrow v_2 - \frac{F}{m_2}$
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
