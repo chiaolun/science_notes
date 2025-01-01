@@ -16,7 +16,6 @@
 		  logseq.order-list-type:: number
 	- ## What happens during a collision between two objects?
 	  id:: 67735080-d6bf-4a48-ae73-00ebb8c19179
-	  collapsed:: true
 		- ((67734f35-aa88-42fb-96ea-69aeb737b833))
 		- ### Stages of a Collision
 			- Objects approach each other with some relative velocity v, each initially experiencing no net force.
@@ -58,7 +57,7 @@
 			- Therefore, the change in kinetic energy is zero
 		- ### Questions
 			- Is total momentum the same throughout the interaction?
-				- Yes! It follows from the 2nd and 3rd laws, and is always held.
+				- Yes! It follows from the 2nd and 3rd laws, and always holds.
 			- Is total kinetic energy the same throughout the interaction?
 				- No! We only showed it was the same before and after the collision. During the collision kinetic energy goes down and is minimal at the point of closest approach. Consider the case where two objects come in from the left and the right and are stationary at the point of closest approach - the kinetic energy is zero at that time!
 			- What is the assumption that we've made that tells us the total kinetic energy before and after the collision will be the same?
