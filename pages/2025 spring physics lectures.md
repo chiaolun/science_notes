@@ -45,7 +45,7 @@
 			- Final kinetic energy:
 			  $\frac{1}{2}m_1v_{f1}^2 + \frac{1}{2}m_2v_{f2}^2 = \frac{1}{2}m_1(v_c - u_1)^2 + \frac{1}{2}m_2(v_c - u_2)^2$
 			- Change:
-			  m_1(v_c - u_1)^2 + \frac{1}{2}m_2(v_c - u_2)^2
+			  $-2(m_1 v_c u_1 + m_2 v_c u_2)$
 - Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
