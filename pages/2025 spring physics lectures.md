@@ -30,8 +30,8 @@
 		- ### Conservation of Momentum
 			- By the 3rd law, the decelerating force each object is experiencing is the same in magnitude but opposite in direction.
 			  By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. 
-			  $v_1 \rightarrow v_1 + \frac{F}{m_1} \Delta t$
-			  $v_2 \rightarrow v_2 - \frac{F}{m_2} \Delta t$
+			  $m_1v_1 \rightarrow m_1v_1 + F \Delta t$
+			  $m_2v_2 \rightarrow m_2v_2 -  \Delta t$
 			- As a result, if you take the sum of products of masses by velocities, you get
 			  $m_1 v_1 + m_2 v_2 \rightarrow m_1 (v_1 + \frac{F}{m_1} \Delta t) + m_2 (v_2 - \frac{F}{m_2} \Delta t) = m_1 v_1 + m_2 v_2$
 			- As long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same! This fact is called the conservation of momentum, and it follows directly from Newton's Laws.
