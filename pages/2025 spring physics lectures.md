@@ -21,7 +21,7 @@
 			  logseq.order-list-type:: number
 			- As they push on each other, their relative velocity goes down, until they are the same velocity as each other. This is the closest they will ever get to each other.
 			  logseq.order-list-type:: number
-			- The two objects then begin to move away from each other, and because the force is purely a function of the distance, the two objects will eventually gain relative velocity -v, same magnitude but exactly opposite the direction of the initial relative velocity.
+			- The two objects then begin to move away from each other, and because the force is purely a function of the distance, this process is an exact reverse of the approach. the two objects will eventually gain relative velocity -v, same magnitude but exactly opposite the direction of the initial relative velocity.
 			  logseq.order-list-type:: number
 		- ### Conservation of Momentum
 			- By the 3rd law, the decelerating force each object is experiencing is the same in magnitude but opposite in direction.
