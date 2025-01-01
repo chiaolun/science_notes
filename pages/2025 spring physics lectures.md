@@ -55,7 +55,7 @@
 		- ### Questions
 			- Is total momentum the same throughout the interaction?
 			- Is total kinetic energy the same throughout the interaction?
-			-
+			- What is the assumption that we've made that tells us the total kinetic energy before and after the collision will be the same?
 			- When is kinetic energy As long as the force with which objects push each other depends only on the distance between them, i.e., they push each other with the same force whenever they are at a given distance apart, kinetic energy before and after a collision
 - Classes
 	- [[2025-02-20 physics]]
