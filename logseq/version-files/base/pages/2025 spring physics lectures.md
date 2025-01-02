@@ -75,9 +75,11 @@
 	- 2D
 		- Rigid bodies
 			- Rotation
+		- Buoyancy
 		- Ballistic motion
-		- The 2-body problem
-		- The 3-body problem
+		- N-body
+			- 2-body problem
+			- 3-body problem
 - # Classes
 	- [[2025-02-20 physics]]
 	  logseq.order-list-type:: number
