@@ -78,6 +78,9 @@
 			- Rotation
 		- Buoyancy
 		- Ballistic motion
+		- Brachistochrone
+		- Catenary
+		- Gaudi's Cathedral Model
 		- N-body
 			- 2-body problem
 			- 3-body problem
