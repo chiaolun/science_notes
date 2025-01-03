@@ -19,6 +19,12 @@
 			  logseq.order-list-type:: number
 			- If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.
 			  logseq.order-list-type:: number
+		- ### Conservation of Momentum
+			- By the 3rd law, the decelerating force each object is experiencing is the same in magnitude but opposite in direction.
+			  By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. 
+			  $m_1v_1 \rightarrow m_1v_1 + F \Delta t$
+			  $m_2v_2 \rightarrow m_2v_2 - F \Delta t$
+			- Therefore, as long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same. This fact follows straightforwardly from Newton's Laws and is called the conservation of momentum.
 		- ### Stages of a Collision
 			- Objects approach each other with some relative velocity v, each initially experiencing no net force.
 			  logseq.order-list-type:: number
@@ -28,12 +34,6 @@
 			  logseq.order-list-type:: number
 			- The two objects then begin to move away from each other, and because the force is purely a function of the distance, this process is an exact reverse of the approach. the two objects will eventually gain relative velocity -v, same magnitude but exactly opposite the direction of the initial relative velocity.
 			  logseq.order-list-type:: number
-		- ### Conservation of Momentum
-			- By the 3rd law, the decelerating force each object is experiencing is the same in magnitude but opposite in direction.
-			  By the 2nd law, the acceleration experienced is inversely proportional to the mass of each object. 
-			  $m_1v_1 \rightarrow m_1v_1 + F \Delta t$
-			  $m_2v_2 \rightarrow m_2v_2 - F \Delta t$
-			- Therefore, as long as there are no external forces, the sum of $m$ multiplied by $v$ is always the same. This fact follows straightforwardly from Newton's Laws and is called the conservation of momentum.
 		- ### Center of Mass
 			- Using the conservation of momentum, we can find the velocity that the two objects reach in stage 3, at the moment of closest approach. We call that velocity $v_c$. It's the center-of-mass velocity, the velocity of the mass-weighted average of the object positions.
 			  $m_1v_1 + m_2v_2 = (m_1 + m_2)v_c$
