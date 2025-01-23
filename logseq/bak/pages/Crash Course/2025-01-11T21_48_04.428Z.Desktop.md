@@ -1,0 +1,4 @@
+- https://thecrashcourse.com/courses/
+- Courses
+	- [[Crash Course Physics]]
+	- [[Crash Course Chemistry]]
