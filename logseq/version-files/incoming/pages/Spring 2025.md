@@ -1,5 +1,5 @@
 - Spring 2025 runs from 2/20 to 6/20, with Thursdays on
-	- Feb 20, 22
+	- Feb 20
 	- Mar 6, 13, 20, 27
 	- Apr 3 (holiday), 10, 17, 24
 	- May 1, 8, 15, 22, 29
