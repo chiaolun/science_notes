@@ -16,8 +16,7 @@
 	- **Tennis Racket Theorem (Intermediate Axis Theorem)** – explaining why rotation about an intermediate axis is unstable
 	- **Dzhanibekov Effect** – the sudden flip observed in the rotation of a rigid body around its intermediate axis
 	- **Ballistic Motion & Parabolic Flight** – trajectories governed by gravity and no propulsion
-	- **Swings and Driven Oscillators** – studies of oscillatory motion where force is applied at the arc's ends
-		-
+	- **Swings and Driven Oscillators** – studies of oscillatory motion where force is applied at the arc's ends #swing
 	- **Inverted Pendulum Stability (Kapitsa Pendulum)** – stabilization of an inverted pendulum via high-frequency vibrations
 - Fluid Dynamics & Thermal Phenomena
 	- **Siphons** – fluid flow driven by gravity and atmospheric pressure
