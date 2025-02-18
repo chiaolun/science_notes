@@ -4,6 +4,7 @@
 	- **Oberth Effect** – the increase in efficiency of a burn when performed deep in a gravitational well
 	- **Tidal Locking** – when an astronomical body always shows the same face to the object it is orbiting
 	- **Why it is difficult to get to the Sun** – an orbital dynamics puzzle about escaping strong gravitational fields
+		- https://www.youtube.com/watch?v=LHvR1fRTW8g #minutephysics
 - Classical Mechanics & Dynamics
 	- **Brachistochrone Problem** – finding the curve descending between two points in the shortest time
 	- **Isochrone Problem** – identifying curves on which the oscillation period is constant regardless of amplitude
