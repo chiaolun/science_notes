@@ -18,6 +18,7 @@
 	- **Ballistic Motion & Parabolic Flight** – trajectories governed by gravity and no propulsion
 	- **Swings and Driven Oscillators** – studies of oscillatory motion where force is applied at the arc's ends #swing
 	- **Inverted Pendulum Stability (Kapitsa Pendulum)** – stabilization of an inverted pendulum via high-frequency vibrations
+		- ((67b4195b-25a5-426b-b870-cf9df3585a97))
 - Fluid Dynamics & Thermal Phenomena
 	- **Siphons** – fluid flow driven by gravity and atmospheric pressure
 	- **Vortex Tube** – a device that separates compressed air into hot and cold streams
