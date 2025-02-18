@@ -10,6 +10,8 @@
 	- **Brachistochrone Problem** – finding the curve descending between two points in the shortest time
 		- https://www.youtube.com/watch?v=Cld0p3a43fU #3blue1brown
 	- **Isochrone Problem** – identifying curves on which the oscillation period is constant regardless of amplitude
+	- **Antigravity yoyos** - a yoyo weighs less while it's spinning
+		-
 	- **Precession & Gyroscopic Precession** – the slow "wobble" of a rotating body's axis
 	- **Tennis Racket Theorem (Intermediate Axis Theorem)** – explaining why rotation about an intermediate axis is unstable
 	- **Dzhanibekov Effect** – the sudden flip observed in the rotation of a rigid body around its intermediate axis
