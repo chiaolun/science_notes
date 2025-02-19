@@ -28,6 +28,7 @@
 	- **Vortex Tube** – a device that separates compressed air into hot and cold streams
 		- ((67b4195b-a1ad-4e1a-8087-c01ed43308ad))
 	- **Terminal Velocity** – the constant speed reached when gravitational and drag forces balance
+	- **Buoyancy** - Less dense materials float
 - Structural & Mechanical Engineering
 	- **Arches and Reinforced Concrete (Gaudi Upside Down Modeling)** – using principles of load distribution in innovative architecture
 	- **Pulleys, Levers, Mechanical Advantage & Trebuchets** – classic simple-machine systems that illustrate energy transfer and force multiplication
