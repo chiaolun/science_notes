@@ -7,6 +7,7 @@
 	- **Tidal Locking** – when an astronomical body always shows the same face to the object it is orbiting
 	- **Why it is difficult to get to the Sun** – an orbital dynamics puzzle about escaping strong gravitational fields
 		- https://www.youtube.com/watch?v=LHvR1fRTW8g #minutephysics
+		- https://www.youtube.com/watch?v=dhDD2KaflSU nasa
 	- **How to build a space elevator**
 - Classical Mechanics & Dynamics
 	- **Brachistochrone Problem** – finding the curve descending between two points in the shortest time
