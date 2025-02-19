@@ -1,6 +1,6 @@
 - Celestial & Orbital Mechanics
 	- **Slingshot (Gravity Assist) Maneuver** – using a planet's motion to alter a spacecraft's trajectory
-		- [[Voyager 2]]
+		- [[Voyager]]
 	- **Oberth Effect** – the increase in efficiency of a burn when performed deep in a gravitational
 		- https://www.youtube.com/watch?v=zX9B-YDkuTs
 		- https://www.youtube.com/watch?v=yPfhISP82bk
