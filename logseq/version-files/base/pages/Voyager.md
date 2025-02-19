@@ -1,1 +1,2 @@
 - [[Slingshot Maneuver]]
+- https://primalnebula.com/how-voyager-2-escaped-the-solar-system/

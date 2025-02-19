@@ -1,2 +1,4 @@
 - [[Slingshot Maneuver]]
+- https://space.stackexchange.com/questions/4054/delta-v-of-deep-space-maneuvers-in-deep-space-missions-like-voyager-or-pioneer
+	- What are typical delta-v for deep space maneuvers, used by deep space missions to outer planets or for "interstellar missions" ? For example, Voyager 1 now has 17 km/s speed relative to the Sun. What part of the speed was created by the rocket, what was delta-v of its hydrazine thruster, and what was delta-v from gravitational slingshots (gravity assists)?
 - https://primalnebula.com/how-voyager-2-escaped-the-solar-system/
