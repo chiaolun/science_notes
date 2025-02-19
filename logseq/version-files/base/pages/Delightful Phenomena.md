@@ -2,6 +2,7 @@
 	- **Slingshot (Gravity Assist) Maneuver** – using a planet's motion to alter a spacecraft's trajectory
 		- Voyager 2
 	- **Oberth Effect** – the increase in efficiency of a burn when performed deep in a gravitational
+		- https://www.youtube.com/watch?v=zX9B-YDkuTs
 		- https://www.youtube.com/watch?v=yPfhISP82bk
 	- **Tidal Locking** – when an astronomical body always shows the same face to the object it is orbiting
 	- **Why it is difficult to get to the Sun** – an orbital dynamics puzzle about escaping strong gravitational fields
