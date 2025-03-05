@@ -6,3 +6,4 @@
 - [[2025 spring physics lectures]]
 - [[2025 spring chemistry lectures]]
 - [[2025-02-27]]
+- [[2025-03-06]]
